@@ -11,8 +11,7 @@ Github: https://github.com/NisheetNakrani
 # Run this command to install all dependencies/packages
 
 pip3 install -r requirements.txt
-or
-pip install -r requirements.txt
+
 
 '''
 
